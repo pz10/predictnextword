@@ -1,0 +1,1 @@
+# define objects available to both ui.R and server.R
